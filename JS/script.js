@@ -1,4 +1,4 @@
-const shoppingList =['patate','cipolle','carote','carne','pasta','ruota'];
+const shoppingList =['patate','cipolle','carote','carne','pasta','ruota',];
 const ulEl = document.querySelector('ul');
 
 elementList = 0;
