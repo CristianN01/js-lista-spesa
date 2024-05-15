@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(75, 227, 177);
+    color: rosybrown;
+    text-align: center;
+    font-size: 2rem;
+}
+
+li{
+    list-style-type: none;
+}
